@@ -1,5 +1,5 @@
 print("Hola")
-print("Que pasa marranito")
+print("Que sucede")
 
 edad = 36
 sueldo = 1000.50
